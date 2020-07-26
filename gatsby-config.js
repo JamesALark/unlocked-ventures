@@ -1,8 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Unlocked Ventures",
-    description: "Unlocked Ventures is ...",
-    image: "/images/meeting-space.png"
+    description: "Unlocked Ventures is ..."
   },
   plugins: [
     "gatsby-plugin-react-helmet",

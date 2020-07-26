@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84.7 82.3">
+  <defs>
+    <style>.cls-1{fill:#ff5959;}.cls-2{fill:#ffad5a;}.cls-3{fill:#50a597;}.cls-4{fill:#89c8d3;}</style>
+  </defs>
+  <g id="unlocked-apple-share" data-name="unlocked">
+    <g id="Icon">
+      <path class="cls-1" d="M25.8,42.3A16.6,16.6,0,0,0,36.4,57.8l-8,24.5A42.4,42.4,0,0,1,0,42.3Z"/>
+      <path class="cls-2" d="M42.3,25.8A16.5,16.5,0,0,0,25.8,42.3H0A42.4,42.4,0,0,1,42.3,0Z"/>
+      <path class="cls-3" d="M84.7,42.3A42.4,42.4,0,0,0,42.3,0V25.8A16.5,16.5,0,0,1,58.8,42.3Z"/>
+      <path class="cls-4" d="M84.7,42.3a42.3,42.3,0,0,1-28.5,40l-8-24.5A16.6,16.6,0,0,0,58.8,42.3Z"/>
+    </g>
+  </g>
+</svg>
