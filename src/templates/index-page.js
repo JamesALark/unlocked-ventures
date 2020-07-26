@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import {Link, graphql} from "gatsby";
+import TextLoop from "react-text-loop";
 
 import Layout from "../components/Layout";
 import Features from "../components/Features";
@@ -26,15 +27,39 @@ export const IndexPageTemplate = ({
     >
       <div
         style={{
-          display: "flex",
+          display: "grid",
+          gridTemplateColumns: "100%",
+          gridGap: "50px",
           height: "150px",
-          lineHeight: "1",
+          width: "50%",
           justifyContent: "space-around",
-          alignItems: "left",
-          flexDirection: "column"
+          alignItems: "center"
         }}
-      />
-      <img src={LogoLarge} alt="Kaldi" style={{width: "50%"}} />
+      >
+        <img src={LogoLarge} alt="Unlocked Logo" />
+        <div className="has-text-white-ter has-text-centered">
+          <TextLoop className="has-text-white-ter">
+            <div
+              style={{width: "200px"}}
+              className="has-text-weight-semibold is-size-4"
+            >
+              Opportunities
+            </div>
+            <div
+              style={{width: "200px"}}
+              className="has-text-weight-semibold is-size-4"
+            >
+              Talent
+            </div>
+            <div
+              style={{width: "200px"}}
+              className="has-text-weight-semibold is-size-4"
+            >
+              Value
+            </div>
+          </TextLoop>
+        </div>
+      </div>
     </div>
     <section className="section section--gradient">
       <div className="container">
