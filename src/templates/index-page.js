@@ -30,7 +30,6 @@ export const IndexPageTemplate = ({
           display: "grid",
           gridTemplateColumns: "100%",
           gridGap: "50px",
-          height: "150px",
           width: "50%",
           justifyContent: "space-around",
           alignItems: "center"
