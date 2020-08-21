@@ -5,8 +5,8 @@ image: /img/pontus-wellgraf-ltyieaf6xyk-unsplash.jpg
 heading: Unlocked Ventures
 subheading: Unlocked Ventures
 mainpitch:
-  title: Innovation
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  title: Trent Test
+  description: Hey Trent
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dui
   mi, mattis id blandit at, lacinia quis turpis. Ut vel lobortis nulla. Duis
   hendrerit, magna in convallis ullamcorper, enim lorem mollis nunc, et maximus
